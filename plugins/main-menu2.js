@@ -176,8 +176,8 @@ let locale = 'id'
 ▣──「 *INFO CMD* 」───⬣\n│ *Ⓟ* = Premium\n│ *Ⓛ* = Limit\n▣────────────⬣`,
            hydratedButtons: [{
              urlButton: {
-               displayText: '📍Instagram',
-               url: iggw
+               displayText: '©CREDITS',
+               url: .tqto
              }
 
            },

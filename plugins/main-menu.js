@@ -445,6 +445,10 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                   "title": "│💨│PHOTO OXY",
                   "description": "Menampilkan Photo Oxy Menu",
                   "rowId": `${_p}? textpro`
+                }, {
+                  "title": "│🗿│STORE MENU",
+                  "description": "Menampilkan STORE Menu",
+                  "rowId": `${_p}? store`
                 }
                   ],
                 "title": "LIST MENU"

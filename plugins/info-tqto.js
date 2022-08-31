@@ -180,8 +180,8 @@ https://github.com/LitRHap
 https://github.com/Aiinne
 ❉ Elyas:
 https://github.com/Paquito1923
-❉ Hyzer:
-https://github.com/Hyzerr
+❉ Leo:
+https://github.com/LeoPyth
 ▣──「 Dan Parah Mastah Lainnya 」───⬣`,
            hydratedButtons: [{
              urlButton: {
